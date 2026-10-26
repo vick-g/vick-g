@@ -58,7 +58,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vick-g&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=tokyonight&title_color=00b3ff&icon_color=00b3ff&hide_border=true" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vick-g&layout=compact&count_private=true&exclude_repo=Jornada-Python&theme=tokyonight&title_color=00b3ff&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vick-g&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
